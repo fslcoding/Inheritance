@@ -41,7 +41,7 @@ class Car : Vehicle {
 }
 ```
 
-In the _Car_ class above, we derive it from Vehicle, and add another field, ```IsFourWheelDrive```
+In the ```Car``` class above, we derive it from Vehicle, and add another field, ```IsFourWheelDrive```
 
 The field, ```IsFourWheelDrive``` is only in the Car class, because not every vehicle has 4 wheels, but every car does.
 
